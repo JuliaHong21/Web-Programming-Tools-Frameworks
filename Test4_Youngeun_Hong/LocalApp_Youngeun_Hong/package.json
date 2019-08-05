@@ -1,0 +1,17 @@
+{
+  "name": "node-pg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Javascript Employee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^7.11.0",
+    "sequelize": "^5.10.1"
+  }
+}

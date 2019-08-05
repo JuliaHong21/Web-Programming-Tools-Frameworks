@@ -1,0 +1,16 @@
+body{
+background-color:#69b9d8;
+}
+
+.container{
+background-color:  #cc87b7;
+}
+
+p {
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold
+}
+
+html *{
+    font-family: Lucida , Georgia, Verdana;
+}
